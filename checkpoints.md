@@ -1,4 +1,4 @@
- tags types: #Setup #Learning #CTF #eBPF
+ tags types: #Setup #CTF #eBPF
 
 ---
 

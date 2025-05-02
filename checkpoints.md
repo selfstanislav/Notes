@@ -3,10 +3,10 @@
 ---
  ##### **May 2025**
 
-993. #CTF |  Completed pwn.college "File Globbing"
-     1. *Shell expansions using wildcards. Applied on file names.*
-994. #CTF |  Completed pwn.college "Digesting Documentation"
-     1. *Linux man pages and builtin 'help' usage*
+993. #CTF |  **Completed pwn.college "File Globbing"**
+     1. Shell expansions using wildcards. Applied on file names.
+994. #CTF |  **Completed pwn.college "Digesting Documentation"**
+     1. Linux man pages and builtin 'help' usage
 995. #CTF |  Completed pwn.college "Comprehending Commands"
      1. *Linux basic commands.*
 996. #CTF |  Completed pwn.college "Pondering paths"

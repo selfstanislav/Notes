@@ -1,4 +1,4 @@
- tags types: #Setup #Learning #CTF
+ tags types: #Setup #Learning #CTF #eBPF
 
 ---
 
@@ -11,7 +11,7 @@
 996. **May 2025** | #CTF |  Completed pwn.college "Pondering paths"
      1. *Linux basics of file paths.*
 997. **April 2025** | #CTF | Completed pwn.college "Getting Started"
-998. **April 2025:** | #Learning | Completed "Introduction to GitHub"
-999. **April 2025:** | #Learning | Explored IT tasks domains and programming language paradigms.
+998. **April 2025:** | #eBPF  | Completed "Introduction to GitHub"
+999. **April 2025:** | #eBPF | Explored IT tasks domains and programming language paradigms.
      1. *Chose eBPF security specialization and Rust.*
 1000. **April 2025:** | #Setup | Connected Obsidian folder to my remote GitHub repository "Notes"

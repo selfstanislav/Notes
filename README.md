@@ -1,4 +1,3 @@
-# Notes
+# Notes repository
 
-Notes, progress, and IT thoughts.
-
+All related to my Notes, progress, and IT thoughts.

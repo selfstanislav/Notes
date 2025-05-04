@@ -2,6 +2,7 @@
 
 ---
  ##### **May 2025**
+ 990. #CTF | **Completed pwn.college "Processes and Jobs"**
  991. #CTF | **Completed pwn.college "Shell variables"**
  992. #CTF | **Completed pwn.college "Practicing Piping"**
       1. Piping, redirection, appends, File Descriptors

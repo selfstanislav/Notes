@@ -1,3 +1,3 @@
 # Notes repository
 
-All related to my Notes, progress, and IT thoughts.
+Public logs of my IT thoughts, notes and progress. Backed up via Obsidian commits.

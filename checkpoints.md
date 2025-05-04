@@ -1,4 +1,4 @@
- tags types: #Setup #CTF #eBPFsec
+ Tags: #Setup #CTF #eBPFsec
 
 ---
  ##### **May 2025**

@@ -2,7 +2,8 @@
 
 ---
  ##### **May 2025**
- 987. #eBPFsec  | **The Rust Book "3. Common programming concepts"**
+ 986. #CTF | **pwn.college "Perceiving permissions"**  
+ 987. #eBPFsec | **The Rust Book "3. Common programming concepts"**
  988. #eBPFsec | **The Rust Book "2. Programming a guessing game"**
  989. #eBPFsec | **The Rust Book "1. Getting Started"**
  990. #CTF | **pwn.college "Processes and Jobs"**

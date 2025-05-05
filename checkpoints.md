@@ -4,18 +4,19 @@
  ##### **May 2025**
  985. #CTF | **pwn.college "Untangling Users"**
       1. su/sudo.
- 986. #CTF | **pwn.college "Perceiving permissions"**  
+ 986. #CTF | **pwn.college "Perceiving permissions"**
+      1. chmod/chgrp/chown.
  987. #eBPFsec | **The Rust Book "3. Common programming concepts"**
  988. #eBPFsec | **The Rust Book "2. Programming a guessing game"**
  989. #eBPFsec | **The Rust Book "1. Getting Started"**
  990. #CTF | **pwn.college "Processes and Jobs"**
  991. #CTF | **pwn.college "Shell variables"**
  992. #CTF | **pwn.college "Practicing Piping"**
-      1. Piping, redirection, appends, File Descriptors
+      1. Piping, redirection, appends, File Descriptors.
  993. #CTF |  **pwn.college "File Globbing"**
       1. Shell expansions using wildcards. Applied on file names.
 994. #CTF |  **pwn.college "Digesting Documentation"**
-     1. Linux man pages and builtin 'help' usage
+     1. Linux man pages and builtin 'help' usage.
 995. #CTF |  **pwn.college "Comprehending Commands"**
      1. Linux basic commands.
 996. #CTF |  **pwn.college "Pondering paths"**

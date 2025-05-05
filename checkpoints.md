@@ -2,6 +2,8 @@
 
 ---
  ##### **May 2025**
+ 985. #CTF | **pwn.college "Untangling Users"**
+      1. su/sudo.
  986. #CTF | **pwn.college "Perceiving permissions"**  
  987. #eBPFsec | **The Rust Book "3. Common programming concepts"**
  988. #eBPFsec | **The Rust Book "2. Programming a guessing game"**

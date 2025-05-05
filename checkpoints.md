@@ -2,6 +2,7 @@
 
 ---
  ##### **May 2025**
+ 984. #CTF | **pwn.college "Chaining Commands"**
  985. #CTF | **pwn.college "Untangling Users"**
       1. su/sudo.
  986. #CTF | **pwn.college "Perceiving permissions"**

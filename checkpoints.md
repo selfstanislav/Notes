@@ -2,6 +2,8 @@
 
 ---
  ##### **May 2025**
+ 983. #CTF | **pwn.college "Pondering PATH"**
+      1. PATH manipulation
  984. #CTF | **pwn.college "Chaining Commands"**
  985. #CTF | **pwn.college "Untangling Users"**
       1. su/sudo.

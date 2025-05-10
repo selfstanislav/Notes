@@ -2,6 +2,9 @@
 
 ---
  ##### **May 2025**
+ 982. #eBPFsec | **Clickhouse SQL "Statements"**
+      1. SELECT
+         1. (ARRAY JOIN, DISTINCT, EXCEPT, FROM, GROUP BY, HAVING, INTERSECT, JOIN, LIMIT, ORDER BY, UNION, WHERE, WITH)
  983. #CTF | **pwn.college "Pondering PATH"**
       1. PATH manipulation
  984. #CTF | **pwn.college "Chaining Commands"**

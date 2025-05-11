@@ -1,7 +1,7 @@
  Tags: #Setup #CTF #eBPFsec
 
 ---
- ##### **May 2025**
+ #### **May 2025**
  981. #eBPFsec | **pwn.college "Your First Program"**
       1. Assembly exit code with 1 argument.
  982. #eBPFsec | **Clickhouse SQL "Statements"**
@@ -30,7 +30,7 @@
 996. #CTF |  **pwn.college "Pondering paths"**
      1. Linux basics of file paths.
 
- ##### **April 2025**
+ #### **April 2025**
 997. #CTF | **pwn.college "Getting Started"**
 998. #eBPFsec  | **"Introduction to GitHub"**
 999. #eBPFsec | **Explored IT tasks domains and programming language paradigms.**

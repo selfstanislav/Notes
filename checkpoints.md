@@ -2,7 +2,7 @@
 
 ---
  #### **May 2025**
- 981. #eBPFsec | **pwn.college "Your First Program"**
+ 981. #CTF | **pwn.college "Your First Program"**
       1. Assembly exit code with 1 argument.
  982. #eBPFsec | **Clickhouse SQL "Statements"**
       1. SELECT

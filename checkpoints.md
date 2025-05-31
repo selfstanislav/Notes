@@ -1,7 +1,8 @@
- Tags: #Setup #CTF #eBPFsec
+ Tags: #Setup #CTF #eBPFsec #Books
 
 ---
  #### **May 2025**
+ 979. #Books | **"x86-64 Assembly Language Programming with Ubuntu"** Version 1.1.58 2024
  980. #CTF | **pwn.college "Software Introspection"**
       1. gdb a program
  981. #CTF | **pwn.college "Your First Program"**

@@ -1,7 +1,10 @@
- Tags: #Setup #CTF #eBPFsec #Books
+ Tags: #Setup #CTF #eBPFsec #Books #Nix
 
 ---
  #### **May 2025**
+ 978. #Nix #Setup  | **Installed NixOS as personal OS**
+      1. GNOME
+      2. Zed
  979. #Books | **"x86-64 Assembly Language Programming with Ubuntu"** Version 1.1.58 2024
  980. #CTF | **pwn.college "Software Introspection"**
       1. gdb a program
